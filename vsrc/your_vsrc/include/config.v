@@ -2,7 +2,7 @@
 `define _CONFIG_V_
 
 // PC init/reset address
-`define PC_INIT             32'h003F_FFFC
+`define PC_INIT             32'h0040_0000
 
 // halt instruction
 `define HALT                32'H00100073
