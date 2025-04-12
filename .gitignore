@@ -1,0 +1,8 @@
+.cache
+.vscode
+build
+generated
+waveform
+.DS_Store
+vsrc/your_include
+mem
