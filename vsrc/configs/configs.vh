@@ -11,4 +11,4 @@
 // core type
 `define SINGLE_CYCLE            8'H0
 `define PIPELINE                8'H1
-`define CORE_TYPE               `SINGLE_CYCLE
+`define CORE_TYPE               `PIPELINE
